@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ERA5-tools
+Version: 0.0.1
+Summary: Processing of ERA5 data
+Home-page: https://github.com/michibinder/ERA5-tools
+Author: Michael Binder
+Author-email: michael.binder94@gmail.com
+License: LGPL
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This package is a selection of tools useful for processing, filtering, visualizing ERA5 data snowpack simulations.
+

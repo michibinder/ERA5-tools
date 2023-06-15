@@ -1,0 +1,10 @@
+#general:
+.DS_Store
+__pycache__
+build
+
+#auto-generated ini files:
+
+#folders:
+data/
+output/

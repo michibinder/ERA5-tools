@@ -1,0 +1,1 @@
+This package is a selection of tools useful for processing, filtering, visualizing ERA5 data snowpack simulations.
